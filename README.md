@@ -8,7 +8,7 @@ Passionate developer and lifelong learner dedicated to crafting elegant solution
 🌱 - I’m currently learning everything.
 <br />
 
-## Languages and Tools :
+## Languages and Tools (Currently working with) :
 
 <div>
   <br/>
@@ -40,7 +40,7 @@ Passionate developer and lifelong learner dedicated to crafting elegant solution
 
 <br/><br/>
 
-## I'm currently studying and make me really excited :
+## Learnning :
 <div>
   <img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="left" alt="NextJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
