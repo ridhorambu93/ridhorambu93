@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Ridho.
 
-I'm a passionate Web & Front-End Developer dedicated to crafting innovative and responsive web applications. My journey in technology is fueled by a love for continuous learning and a desire to grow in the ever-evolving world of programming. I thrive on embracing new challenges and staying updated with the latest trends in web development and design. Let’s connect and explore the endless possibilities of the digital world together!
+Passionate developer and lifelong learner dedicated to crafting elegant solutions with code. Always starting with the magic words: Hello, World!"
 
 ## I'am a Developer, Father And Husband
 
