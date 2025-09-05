@@ -48,6 +48,6 @@ I'm a passionate developer and lifelong learner dedicated to crafting elegant so
 ## Let's Connect! 😎
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rye_dho_rambu)](https://www.instagram.com/rye_dho_rambu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ridho-443623168)](https://www.linkedin.com/in/muhammad-ridho-443623168)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ridhodavybones@gmail.com)](mailto:mail@ridhodavybones@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ridhodavybones@gmail.com)](mailto:ridhodavybones@gmail.com)
 
 I'm excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on my social media. Thank you for visiting my profile! Let's learn and grow together in the world of technology.
