@@ -1,14 +1,9 @@
-# Hi there, I'm Muhammad Ridho  👋
+# Hi there, I'm Muhammad Ridho 👋
 
-Passionate developer and lifelong learner dedicated to crafting elegant solutions with code (I Hope So). Always start with the magic words when i learned a new technology : <b>"Hello, World!"</b> ✨
-<br />
+![Header image](https://github.com/ridhorambu93/ridhorambu93/blob/main/assets/my-bg-banner.jpg) <br/><br/>
+I'm a passionate developer and lifelong learner dedicated to crafting elegant solutions with code (or at least I hope so!) always begin my journey with a new technology by saying the magic words: <b>"Hello, World!"</b><br />
 
-## I'm a Husband, Father and Developer!!
-
-🌱 - I’m currently learning everything.
-<br />
-
-## Languages and Tools (Currently working with) :
+## 🛠 - Languages and Tools (Currently working with)
 
 <div>
   <br/>
@@ -40,7 +35,7 @@ Passionate developer and lifelong learner dedicated to crafting elegant solution
 
 <br/><br/>
 
-## Learning :
+## 📖 - Learning 
 <div>
   <img align="left" alt="Spring" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="left" alt="NextJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
@@ -51,6 +46,8 @@ Passionate developer and lifelong learner dedicated to crafting elegant solution
 <br/><br/>
 
 ## Let's Connect! 😎
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rye_dho_rambu)](https://www.instagram.com/rye_dho_rambu)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ridho-443623168)](https://www.linkedin.com/in/muhammad-ridho-443623168)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@ridhodavybones@gmail.com)](mailto:mail@ridhodavybones@gmail.com)
 
-I'm excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [Instagram](https://www.instagram.com/rye_dho_rambu) or [LinkedIn](https://www.linkedin.com/in/muhammad-ridho-443623168).
-Thank you for visiting my profile! Let's learn and grow together in the world of technology.
+I'm excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on my social media. Thank you for visiting my profile! Let's learn and grow together in the world of technology.
