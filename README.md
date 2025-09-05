@@ -1,26 +1,30 @@
 # Hi there, I'm Muhammad Ridho.
 
-As a Web & Front-End Developer, I specialize in building innovative and responsive web applications. My enthusiasm for continuous learning drives me to explore new technologies and improve my skills.
+I'm a passionate Web & Front-End Developer dedicated to crafting innovative and responsive web applications. My journey in technology is fueled by a love for continuous learning and a desire to grow in the ever-evolving world of programming.
 
-## I'm a Husband, Father, And Web Developer
+## About Me
 
-- 🌱 I’m currently learning everything 🤣
+🌱 - As a developer, I strive to understand the intricacies of both front-end and back-end technologies. I believe in the power of collaboration and innovation, and I'm always eager to tackle new challenges that help me expand my skill set.
 
-### Languages and Tools:
+## Tech Stack
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+### Backend Development:
+- **Laravel**: Creating efficient and structured web applications.
+- **Express.js**: Developing fast and reliable APIs.
+- **Spring Boot**: Building scalable and robust Java applications.
+- **CodeIgniter**: Rapidly developing simple PHP applications.
+
+### Front-End Development:
+- **React.js**: Crafting dynamic and interactive user interfaces.
+- **TypeScript**: Ensuring reliability and better code management.
+- **Angular**: Building feature-rich and structured web applications.
+- **Bootstrap & Tailwind CSS**: Designing responsive and attractive interfaces.
+- **jQuery**: Simplifying DOM manipulation and event handling.
+
+## Let's Connect!
+
+I'm excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [Instagram](https://www.instagram.com/rye_dho_rambu) or [LinkedIn](https://www.linkedin.com/in/muhammad-ridho-443623168).
 
 ---
-
-[instagram]: https://www.instagram.com/rye_dho_rambu
-[linkedin]: https://www.linkedin.com/in/muhammad-ridho-443623168
-
+Thank you for visiting my profile! Let's learn and grow together in the world of technology.
 ---
