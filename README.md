@@ -1,25 +1,27 @@
 # Hi there, I'm Muhammad Ridho.
 
-I'm a passionate Web & Front-End Developer dedicated to crafting innovative and responsive web applications. My journey in technology is fueled by a love for continuous learning and a desire to grow in the ever-evolving world of programming.
+I'm a passionate Web & Front-End Developer dedicated to crafting innovative and responsive web applications. My journey in technology is fueled by a love for continuous learning and a desire to grow in the ever-evolving world of programming. I thrive on embracing new challenges and staying updated with the latest trends in web development and design. Let’s connect and explore the endless possibilities of the digital world together!
 
-## About Me
+## I'am a Developer, Father And Husband
 
-🌱 - As a developer, I strive to understand the intricacies of both front-end and back-end technologies. I believe in the power of collaboration and innovation, and I'm always eager to tackle new challenges that help me expand my skill set.
+🌱 - I’m currently learning everything 🤣
 
-## Tech Stack
+## Languages and Tools:
 
-### Backend Development:
-- **Laravel**: Creating efficient and structured web applications.
-- **Express.js**: Developing fast and reliable APIs.
-- **Spring Boot**: Building scalable and robust Java applications.
-- **CodeIgniter**: Rapidly developing simple PHP applications.
-
-### Front-End Development:
-- **React.js**: Crafting dynamic and interactive user interfaces.
-- **TypeScript**: Ensuring reliability and better code management.
-- **Angular**: Building feature-rich and structured web applications.
-- **Bootstrap & Tailwind CSS**: Designing responsive and attractive interfaces.
-- **jQuery**: Simplifying DOM manipulation and event handling.
+- **Laravel**
+- **Express.js**
+- **Spring Boot**
+- **CodeIgniter**
+- **React.js**
+- **TypeScript**
+- **Angular**
+- **Bootstrap, Tailwind CSS, Shadcn UI**
+- **jQuery**
+- **VsCode**
+- **Postman**
+- **Git, Gitlab, Github**
+- **Mysql, Postgres**
+- **Web Socket**
 
 ## Let's Connect!
 
