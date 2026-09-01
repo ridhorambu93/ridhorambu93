@@ -13,10 +13,10 @@ Software Engineer focused on backend development, currently deepening my skills 
 ## 🔧 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nodejs,laravel,php" />
+  <img src="https://skillicons.dev/icons?i=java,spring,express,laravel,codeigniter,nodejs&perline=10&size=30" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,vscode,ubuntu,vite,maven,npm" />
+  <img src="https://skillicons.dev/icons?i=react,jquery,postgres,mysql,docker,git,ubuntu&perline=10&size=30" />
 </p>
 
 <br/>
@@ -24,21 +24,10 @@ Software Engineer focused on backend development, currently deepening my skills 
 ## 📖 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,graphql,firebase,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=go,graphql,firebase,ts&perline=10&size=30" />
 </p>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridhorambu93&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhorambu93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<img src="https://streak-stats.demolab.com?user=ridhorambu93&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
 
 ## 🤝 Let's Connect
 
