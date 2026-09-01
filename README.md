@@ -13,10 +13,10 @@ Software Engineer focused on backend development, currently deepening my skills 
 ## 🔧 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,express,laravel,codeigniter,nodejs&perline=10&size=30" />
+  <img src="https://skillicons.dev/icons?i=spring,express,laravel,nodejs&perline=10&size=20" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,jquery,postgres,mysql,docker,git,ubuntu&perline=10&size=30" />
+  <img src="https://skillicons.dev/icons?i=react,jquery,postgres,mysql,docker,git,ubuntu&perline=10&size=20" />
 </p>
 
 <br/>
